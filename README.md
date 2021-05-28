@@ -1,7 +1,7 @@
 # Faraon kartová hra
 ### Konzolová aplikácia
 
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;Pozn.: Spustiteľný súbor aplikácie - run-app.bat</sub> 
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;Pozn.: Spustiteľný súbor aplikácie - out/artifacts/Faraon_jar/run-app.bat</sub> 
 
 ## Úvod  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplikácia, prostredníctvom ktorej si môže zahrať ľubovoľný počet hráčov kartovú hru Faraon.
